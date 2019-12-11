@@ -151,7 +151,7 @@ get_header();
                 <span class="overview-container"></span>
               </div>
               <div class="modal-popularity">
-                <h3 class="popularity-title">Popularitie :</h3>
+                <h3 class="popularity-title">Popularity :</h3>
                 <span class="popularity-container"></span>
               </div>
               <div class="modal-vote_average">
